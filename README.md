@@ -45,7 +45,7 @@ Please [join the discussion](https://github.com/protocol/CryptoComputeLab/discus
 
 ### Open Problems
 
-We welcome discussion of our [current Open Problems](https://github.com/protocol/CryptoComputeLab/tree/main/open_problems) on our [github discussion page](https://github.com/protocol/CryptoComputeLab/discussions/categories/open-problems-ideas-proposals). 
+We welcome discussion of our current Open Problems on our [github discussion page](https://github.com/protocol/CryptoComputeLab/discussions/categories/open-problems-ideas-proposals). 
   
 
 ### Projects 
