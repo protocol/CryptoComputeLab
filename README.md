@@ -50,6 +50,32 @@ We welcome discussion of our current Open Problems on our [github discussion pag
 
 ### Projects 
 
+Currently, the CryptoComputeLab is tasked with the following projects:
+
+#### Filecoin Crypto
+
+Responsible for the Proving system in Filecoin, the Filecoin Crypto project is a joint effort with other teams (such as Lotus) for maintaining and enhancing the Filecoin network.  Regular software updates are published as required with new functionality, bug fixes, performance enhancements, etc.
+
+#### Lightweight Sector Upgrades
+
+A current project that is ongoing is upgrading existing CC sectors with deal information to store user data.  At the moment, much of the storage committed to Filecoin is not readily available for deals, so this project aims to solve this.
+
+#### Halo2
+
+The current Proving system in Filecoin Crypto is based on Groth16, but we are currently evaluating switching to a recursive proving system using [Halo2](https://electriccoin.co/blog/ecc-releases-code-for-halo-2/).
+
+#### Efficient Scheduler
+
+The goal here is integrating a flexible work scheduler that allows better usage of limited resources, such as GPUs for completing the work of parts of the proving system.
+
+#### Space VDF
+
+The Space VDF project uses physical distance and the speed of light to help define the delay function.
+
+#### GPGPU
+
+Enhanced GPU support, primarily used in our proving system for accelerated computations.
+
 ### RFPs
   
  As we develop and post RFPs, they will be posted in [this github repo](https://github.com/protocol/research-RFPs).
